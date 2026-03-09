@@ -3,9 +3,4 @@
 # hello team
 
 # Moi team
-
-# testi
-
-# testi2
-
-# hello team 3
+# Aleksi moro nään sut
